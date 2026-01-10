@@ -6,16 +6,16 @@
   <picture>
     <!-- Dark mode -->
     <source 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Engineer;Front+End+Developer" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Aspiring+Data+Engineer;" 
       media="(prefers-color-scheme: dark)"
     />
     <!-- Light mode -->
     <source 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Engineer;Front+End+Developer" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Aspiring+Data+Engineer;" 
       media="(prefers-color-scheme: light)"
     />
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Engineer;Front+End+Developer"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Aspiring+Data+Engineer;"
       alt="Typing animation"
     />
   </picture>
