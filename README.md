@@ -1,24 +1,98 @@
-<h1 align="center">Hi 👋, I'm Giri raj Gautam</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#2563eb">Giri Raj Gautam</span>
+</h1>
 
-
-
-
-
-- 🔭 I’m currently working on **Hospital Management System and web development projects.**
-
-- 🌱 I’m currently learning **advanced JavaScript, and cloud integrations.**
-
-- 📫 How to reach me **parissaint200@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aashish-gautam-a970b8245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aashish-gautam-a970b8245/" height="30" width="40" /></a>
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Engineer;Front+End+Developer" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Engineer;Front+End+Developer" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Data+Engineer;Front+End+Developer"
+      alt="Typing animation"
+    />
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  💡 Passionate about data, scalable systems & clean user interfaces
+</p>
 
+---
 
+### 🚀 About Me
 
+- 🌱 **Learning:** Data Science, Data Engineering & Cloud Technologies  
+- 🔭 **Building:** Hospital Management System & modern web apps  
+- 🎯 **Goal:** Become a skilled **Data Engineer** with strong frontend and backend skills  
+- 📫 **Email:** **parissaint200@gmail.com**
 
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aashish-gautam-a970b8245/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/girirajgautam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Projects-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,react,html,css,mysql,firebase,git,linux,figma,photoshop" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=girirajgautam&show_icons=true&hide_border=true&count_private=true&theme=dark" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=girirajgautam&show_icons=true&hide_border=true&count_private=true&theme=default" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=girirajgautam&show_icons=true&hide_border=true&count_private=true" 
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=girirajgautam&theme=dark&hide_border=true" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=girirajgautam&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=girirajgautam&hide_border=true" 
+    />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  🚀 Learning • Building • Scaling • Improving
+</p>
